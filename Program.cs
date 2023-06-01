@@ -1,3 +1,4 @@
+// Editing the same line (file from feature-2 branch)
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
